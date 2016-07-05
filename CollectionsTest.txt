@@ -1,0 +1,4 @@
+COLLECTIONS analysis : 
+
+|Collection    |size          |add           |get           |remove        |contains      |populate      |iterator.add  |iterator.remove
+_________________________________________________________________________________________________________________________________________
